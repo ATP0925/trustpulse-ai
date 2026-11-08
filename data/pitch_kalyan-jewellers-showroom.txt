@@ -1,0 +1,15 @@
+Hello Kalyan Jewellers Showroom Team! 👋
+
+We noticed your location in Bengaluru on Google Maps. In Bengaluru, 85% of high-intent customers choose businesses with 4.8★+ ratings over competitors.
+
+We have provisioned a custom Reputation Accelerator & Negative Review Shield for Kalyan Jewellers Showroom:
+🔗 Live Interactive Review Filter: http://localhost:8000/r/kalyan-jewellers-showroom
+📊 Private Manager Analytics Dashboard: http://localhost:8000/dashboard/kalyan-jewellers-showroom
+🖨️ Ready-to-Print Counter Table-Tent PDF: http://localhost:8000/poster/kalyan-jewellers-showroom
+
+How TrustPulse protects your Luxury Retail:
+• Happy customers (4-5 stars) are routed in 1-tap directly to your Google Maps review page.
+• Unhappy customers (1-3 stars) are privately intercepted into your manager dashboard so bad reviews NEVER appear on Google!
+
+We have activated a 14-day free trial on your account. Zero setup required.
+Reply to this message or WhatsApp us to keep it active for ₹999/month.

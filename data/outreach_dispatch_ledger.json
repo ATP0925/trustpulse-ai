@@ -1,0 +1,67 @@
+[
+  {
+    "business_name": "Dr. Batra's Positive Health Clinic",
+    "category": "Homeopathy & Trichology",
+    "city": "Mumbai",
+    "slug": "dr-batras-positive-health-clinic",
+    "review_url": "http://localhost:8000/r/dr-batras-positive-health-clinic",
+    "dashboard_url": "http://localhost:8000/dashboard/dr-batras-positive-health-clinic",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_dr-batras-positive-health-clinic.pdf",
+    "pitch_file": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\pitch_dr-batras-positive-health-clinic.txt",
+    "phone": "+91 22 6666 8888",
+    "email": "customercare@drbatras.com",
+    "status": "PROVISIONED_AND_READY_FOR_DISPATCH"
+  },
+  {
+    "business_name": "Gold's Gym Bandra West",
+    "category": "Fitness & Wellness",
+    "city": "Mumbai",
+    "slug": "golds-gym-bandra-west",
+    "review_url": "http://localhost:8000/r/golds-gym-bandra-west",
+    "dashboard_url": "http://localhost:8000/dashboard/golds-gym-bandra-west",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_golds-gym-bandra-west.pdf",
+    "pitch_file": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\pitch_golds-gym-bandra-west.txt",
+    "phone": "+91 98201 99999",
+    "email": "bandra@goldsgym.in",
+    "status": "PROVISIONED_AND_READY_FOR_DISPATCH"
+  },
+  {
+    "business_name": "Enrich Salon & Luxury Spa",
+    "category": "Hair & Beauty Salon",
+    "city": "Pune",
+    "slug": "enrich-salon-luxury-spa",
+    "review_url": "http://localhost:8000/r/enrich-salon-luxury-spa",
+    "dashboard_url": "http://localhost:8000/dashboard/enrich-salon-luxury-spa",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_enrich-salon-luxury-spa.pdf",
+    "pitch_file": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\pitch_enrich-salon-luxury-spa.txt",
+    "phone": "+91 20 2567 1111",
+    "email": "care@enrichsalon.com",
+    "status": "PROVISIONED_AND_READY_FOR_DISPATCH"
+  },
+  {
+    "business_name": "Kalyan Jewellers Showroom",
+    "category": "Luxury Retail",
+    "city": "Bengaluru",
+    "slug": "kalyan-jewellers-showroom",
+    "review_url": "http://localhost:8000/r/kalyan-jewellers-showroom",
+    "dashboard_url": "http://localhost:8000/dashboard/kalyan-jewellers-showroom",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_kalyan-jewellers-showroom.pdf",
+    "pitch_file": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\pitch_kalyan-jewellers-showroom.txt",
+    "phone": "+91 80 4123 4567",
+    "email": "customercare@kalyanjewellers.net",
+    "status": "PROVISIONED_AND_READY_FOR_DISPATCH"
+  },
+  {
+    "business_name": "Dr. Lal PathLabs Collection Center",
+    "category": "Diagnostic & Pathology",
+    "city": "New Delhi",
+    "slug": "dr-lal-pathlabs-collection-center",
+    "review_url": "http://localhost:8000/r/dr-lal-pathlabs-collection-center",
+    "dashboard_url": "http://localhost:8000/dashboard/dr-lal-pathlabs-collection-center",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_dr-lal-pathlabs-collection-center.pdf",
+    "pitch_file": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\pitch_dr-lal-pathlabs-collection-center.txt",
+    "phone": "+91 11 3988 5050",
+    "email": "support@lalpathlabs.com",
+    "status": "PROVISIONED_AND_READY_FOR_DISPATCH"
+  }
+]
