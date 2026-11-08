@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "slug": "dr-smile-dental",
+    "name": "Dr. Smile Dental & Laser Clinic",
+    "category": "Dental Clinic",
+    "google_review_url": "https://maps.google.com/?cid=1029384756",
+    "phone": "+91 98200 12345",
+    "owner_email": "dr.smile@clinic.com",
+    "min_stars_for_google": 4,
+    "offer_text": "Get \u20b9200 off your next cleaning session!"
+  },
+  {
+    "id": 2,
+    "slug": "test-dental-hub",
+    "name": "Apex Dental Care",
+    "category": "Dental Clinic",
+    "google_review_url": "https://maps.google.com/?cid=999888777",
+    "phone": "+91 98000 11111",
+    "owner_email": "apex@dental.in",
+    "min_stars_for_google": 4,
+    "offer_text": "Get 15% off dental cleanings!"
+  },
+  {
+    "id": 4,
+    "slug": "dr-joshi-orthopedic-spine-clinic",
+    "name": "Dr. Joshi Orthopedic & Spine Clinic",
+    "category": "Orthopedic & Spine Clinic",
+    "google_review_url": "https://maps.google.com/?cid=123456789",
+    "phone": "+91 98900 12345",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "Scan to rate us & receive priority appointment booking!"
+  },
+  {
+    "id": 5,
+    "slug": "apollo-dental-whitefield",
+    "name": "Apollo Dental Whitefield",
+    "category": "Dental Clinic",
+    "google_review_url": "https://maps.google.com/?cid=11223344",
+    "phone": "+91 80 1234 5678",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "Complimentary dental X-ray with cleaning!"
+  },
+  {
+    "id": 8,
+    "slug": "dr-batras-positive-health-clinic",
+    "name": "Dr. Batra's Positive Health Clinic",
+    "category": "Homeopathy & Trichology",
+    "google_review_url": "https://maps.google.com/?cid=987123456",
+    "phone": "+91 22 6666 8888",
+    "owner_email": "customercare@drbatras.com",
+    "min_stars_for_google": 4,
+    "offer_text": "Complimentary hair & scalp analysis voucher!"
+  },
+  {
+    "id": 9,
+    "slug": "golds-gym-bandra-west",
+    "name": "Gold's Gym Bandra West",
+    "category": "Fitness & Wellness",
+    "google_review_url": "https://maps.google.com/?cid=123987456",
+    "phone": "+91 98201 99999",
+    "owner_email": "bandra@goldsgym.in",
+    "min_stars_for_google": 4,
+    "offer_text": "1 Free Personal Training Session + Protein Shake!"
+  },
+  {
+    "id": 10,
+    "slug": "enrich-salon-luxury-spa",
+    "name": "Enrich Salon & Luxury Spa",
+    "category": "Hair & Beauty Salon",
+    "google_review_url": "https://maps.google.com/?cid=456123789",
+    "phone": "+91 20 2567 1111",
+    "owner_email": "care@enrichsalon.com",
+    "min_stars_for_google": 4,
+    "offer_text": "\u20b9300 discount on haircut & styling!"
+  },
+  {
+    "id": 11,
+    "slug": "kalyan-jewellers-showroom",
+    "name": "Kalyan Jewellers Showroom",
+    "category": "Luxury Retail",
+    "google_review_url": "https://maps.google.com/?cid=789456123",
+    "phone": "+91 80 4123 4567",
+    "owner_email": "customercare@kalyanjewellers.net",
+    "min_stars_for_google": 4,
+    "offer_text": "Exclusive silver coin voucher with your purchase!"
+  },
+  {
+    "id": 12,
+    "slug": "dr-lal-pathlabs-collection-center",
+    "name": "Dr. Lal PathLabs Collection Center",
+    "category": "Diagnostic & Pathology",
+    "google_review_url": "https://maps.google.com/?cid=321654987",
+    "phone": "+91 11 3988 5050",
+    "owner_email": "support@lalpathlabs.com",
+    "min_stars_for_google": 4,
+    "offer_text": "10% discount on complete health checkup package!"
+  },
+  {
+    "id": 18,
+    "slug": "dentzz-dental-care",
+    "name": "Dentzz Dental Care",
+    "category": "Cosmetic Dentistry",
+    "google_review_url": "https://maps.google.com/?cid=111",
+    "phone": "+91 22 2678 1234",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "Free dental consultation voucher"
+  },
+  {
+    "id": 19,
+    "slug": "kairali-ayurvedic-center",
+    "name": "Kairali Ayurvedic Center",
+    "category": "Ayurveda & Wellness",
+    "google_review_url": "https://maps.google.com/?cid=222",
+    "phone": "+91 11 2680 1234",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "15% off first massage therapy"
+  },
+  {
+    "id": 20,
+    "slug": "cultfit-fitness-center",
+    "name": "Cult.fit Fitness Center",
+    "category": "Gym & Group Workouts",
+    "google_review_url": "https://maps.google.com/?cid=333",
+    "phone": "+91 80 4567 8901",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "2 Free group trial classes"
+  },
+  {
+    "id": 21,
+    "slug": "toni-guy-hair-dressing",
+    "name": "Toni & Guy Hair Dressing",
+    "category": "Luxury Salon",
+    "google_review_url": "https://maps.google.com/?cid=444",
+    "phone": "+91 20 6600 4567",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "Complimentary hair spa with haircut"
+  },
+  {
+    "id": 22,
+    "slug": "dr-agarwals-eye-hospital",
+    "name": "Dr. Agarwal's Eye Hospital",
+    "category": "Ophthalmology",
+    "google_review_url": "https://maps.google.com/?cid=555",
+    "phone": "+91 44 2811 1234",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "Complimentary vision screening voucher"
+  },
+  {
+    "id": 23,
+    "slug": "vlcc-wellness-slimming",
+    "name": "VLCC Wellness & Slimming",
+    "category": "Skin & Weight Loss",
+    "google_review_url": "https://maps.google.com/?cid=666",
+    "phone": "+91 40 2345 6789",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "\u20b9500 gift voucher on skin glow service"
+  },
+  {
+    "id": 24,
+    "slug": "b-blunt-salon-academy",
+    "name": "B blunt Salon & Academy",
+    "category": "Hair Styling",
+    "google_review_url": "https://maps.google.com/?cid=777",
+    "phone": "+91 22 2640 1234",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "10% off all hair color services"
+  },
+  {
+    "id": 25,
+    "slug": "dr-mohans-diabetes-center",
+    "name": "Dr. Mohan's Diabetes Center",
+    "category": "Endocrinology & Diabetes",
+    "google_review_url": "https://maps.google.com/?cid=888",
+    "phone": "+91 80 2555 1234",
+    "owner_email": "",
+    "min_stars_for_google": 4,
+    "offer_text": "Free HbA1c test consultation voucher"
+  }
+]

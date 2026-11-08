@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrustPulse AI — Reputation Engine</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>body { font-family: 'Plus Jakarta Sans', sans-serif; }</style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col items-center justify-center p-6 text-center">
+    <div class="max-w-md w-full bg-slate-900 border border-slate-800 rounded-3xl p-8 shadow-2xl">
+        <div class="text-4xl mb-4">⚡</div>
+        <h1 class="text-2xl font-bold text-white mb-2">Loading Review Filter...</h1>
+        <p class="text-xs text-slate-400 mb-6">Redirecting to your verified customer experience...</p>
+        <div class="w-8 h-8 mx-auto border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+        <p class="text-[11px] text-slate-500 mt-6"><a href="./index.html" class="underline text-blue-400">Return to TrustPulse AI Home</a></p>
+    </div>
+    <script>
+        // Extract slug from URL if user accessed /r/<slug>
+        const path = window.location.pathname;
+        const matches = path.match(new RegExp('/r/([^/]+)'));
+        if (matches && matches[1]) {
+            const slug = matches[1];
+            fetch('./businesses.json')
+                .then(r => r.json())
+                .then(bizList => {
+                    const match = bizList.find(b => b.slug === slug);
+                    if (match) {
+                        window.location.replace('./r/' + slug + '/');
+                    } else {
+                        window.location.replace('./index.html');
+                    }
+                })
+                .catch(() => window.location.replace('./index.html'));
+        } else {
+            window.location.replace('./index.html');
+        }
+    </script>
+</body>
+</html>

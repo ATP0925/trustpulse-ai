@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrustPulse Dashboard — Apex Dental Care</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>body { font-family: 'Plus Jakarta Sans', sans-serif; }</style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen antialiased">
+
+    <!-- Top Navigation -->
+    <nav class="border-b border-slate-800 bg-slate-900/80 backdrop-blur px-6 py-4">
+        <div class="max-w-6xl mx-auto flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center font-bold text-white shadow-lg shadow-blue-500/20">
+                    ⚡
+                </div>
+                <div>
+                    <h1 class="text-base font-extrabold text-white leading-tight">TrustPulse AI</h1>
+                    <p class="text-xs text-slate-400">Apex Dental Care</p>
+                </div>
+            </div>
+            <div class="flex items-center gap-4">
+                <a href="../../posters/poster_test-dental-hub.pdf" download target="_blank" class="px-4 py-2 rounded-xl bg-blue-600 hover:bg-blue-500 text-xs font-bold text-white shadow-lg shadow-blue-600/30 flex items-center gap-2 transition">
+                    <span>🖨️ Download Counter Table-Tent PDF</span>
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-6 py-10">
+
+        <!-- Header Info -->
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
+            <div>
+                <h2 class="text-2xl font-black text-white">Reputation Command Center</h2>
+                <p class="text-sm text-slate-400 mt-1">Live Review Link: <a href="../../r/test-dental-hub/index.html" target="_blank" class="text-blue-400 underline font-semibold">/r/test-dental-hub/</a></p>
+            </div>
+            <div class="flex items-center gap-2">
+                <span class="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                <span class="text-xs font-semibold text-emerald-400 uppercase tracking-wider">Negative Shield Active</span>
+            </div>
+        </div>
+
+        <!-- Metrics Grid -->
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-10">
+            <div class="p-6 rounded-3xl bg-slate-900 border border-slate-800">
+                <p class="text-xs font-bold uppercase text-slate-500 mb-1">Total QR Scans</p>
+                <div class="text-3xl font-black text-white">12</div>
+                <p class="text-[11px] text-slate-400 mt-2">Visits to review filter</p>
+            </div>
+            <div class="p-6 rounded-3xl bg-slate-900 border border-slate-800">
+                <p class="text-xs font-bold uppercase text-slate-500 mb-1">Google 5★ Redirects</p>
+                <div class="text-3xl font-black text-emerald-400">9</div>
+                <p class="text-[11px] text-slate-400 mt-2">Pushed to public Google Maps</p>
+            </div>
+            <div class="p-6 rounded-3xl bg-slate-900 border border-slate-800">
+                <p class="text-xs font-bold uppercase text-slate-500 mb-1">Bad Reviews Shielded</p>
+                <div class="text-3xl font-black text-amber-400">6</div>
+                <p class="text-[11px] text-slate-400 mt-2">Saved from public Google page</p>
+            </div>
+            <div class="p-6 rounded-3xl bg-slate-900 border border-slate-800">
+                <p class="text-xs font-bold uppercase text-slate-500 mb-1">Average Rating</p>
+                <div class="text-3xl font-black text-blue-400">3.2 ⭐</div>
+                <p class="text-[11px] text-slate-400 mt-2">Overall customer satisfaction</p>
+            </div>
+        </div>
+
+        <!-- Two Columns: WhatsApp Invite Generator & Shielded Complaints -->
+        <div class="grid md:grid-cols-2 gap-8">
+            
+            <!-- WhatsApp Dispatch Generator -->
+            <div class="p-6 rounded-3xl bg-slate-900 border border-slate-800">
+                <h3 class="text-base font-bold text-white mb-2">💬 1-Click WhatsApp Review Invite</h3>
+                <p class="text-xs text-slate-400 mb-6">Send an automated review invitation directly to a customer's WhatsApp.</p>
+                
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-xs font-semibold text-slate-400 mb-1">Customer Name</label>
+                        <input type="text" id="waName" placeholder="e.g. Rahul Sharma" class="w-full px-4 py-2.5 rounded-xl bg-slate-800 border border-slate-700 text-sm text-white focus:outline-none focus:border-blue-500">
+                    </div>
+                    <div>
+                        <label class="block text-xs font-semibold text-slate-400 mb-1">Customer Phone (with 91 country code)</label>
+                        <input type="tel" id="waPhone" placeholder="e.g. 919820012345" class="w-full px-4 py-2.5 rounded-xl bg-slate-800 border border-slate-700 text-sm text-white focus:outline-none focus:border-blue-500">
+                    </div>
+                    <button onclick="sendWhatsAppInvite()" class="w-full py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 font-bold text-sm text-white shadow-lg shadow-emerald-600/20 transition flex items-center justify-center gap-2">
+                        <span>Open WhatsApp & Send Invite →</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Shielded Private Complaints -->
+            <div class="p-6 rounded-3xl bg-slate-900 border border-slate-800">
+                <h3 class="text-base font-bold text-white mb-2">🛡️ Shielded Private Customer Feedback</h3>
+                <p class="text-xs text-slate-400 mb-4">Unhappy customers captured privately before they posted on Google.</p>
+
+                <div class="space-y-3 max-h-80 overflow-y-auto">
+                    
+            <div class="p-3 rounded-xl bg-slate-800/80 border border-slate-700/60 text-xs">
+                <div class="flex items-center justify-between mb-1">
+                    <span class="font-bold text-amber-400">⭐ (1 Stars)</span>
+                    <span class="text-[10px] text-slate-500">2026-11-08 14:36:33</span>
+                </div>
+                <p class="text-slate-200 mb-1 font-semibold">Rohan Mehra <span class="text-slate-400 font-normal">(+91 98333 44444)</span></p>
+                <p class="text-slate-300 italic">"Dr was in a rush, unhelpful explanation."</p>
+                <div class="mt-2 text-right">
+                    <span class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-bold">🛡️ Shielded from Google Maps</span>
+                </div>
+            </div>
+            
+            <div class="p-3 rounded-xl bg-slate-800/80 border border-slate-700/60 text-xs">
+                <div class="flex items-center justify-between mb-1">
+                    <span class="font-bold text-amber-400">⭐⭐ (2 Stars)</span>
+                    <span class="text-[10px] text-slate-500">2026-11-08 14:36:33</span>
+                </div>
+                <p class="text-slate-200 mb-1 font-semibold">Pooja Verma <span class="text-slate-400 font-normal">(+91 98111 22222)</span></p>
+                <p class="text-slate-300 italic">"Waiting time was 45 minutes past my appointment schedule."</p>
+                <div class="mt-2 text-right">
+                    <span class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-bold">🛡️ Shielded from Google Maps</span>
+                </div>
+            </div>
+            
+            <div class="p-3 rounded-xl bg-slate-800/80 border border-slate-700/60 text-xs">
+                <div class="flex items-center justify-between mb-1">
+                    <span class="font-bold text-amber-400">⭐ (1 Stars)</span>
+                    <span class="text-[10px] text-slate-500">2026-11-08 14:16:12</span>
+                </div>
+                <p class="text-slate-200 mb-1 font-semibold">Rohan Mehra <span class="text-slate-400 font-normal">(+91 98333 44444)</span></p>
+                <p class="text-slate-300 italic">"Dr was in a rush, unhelpful explanation."</p>
+                <div class="mt-2 text-right">
+                    <span class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-bold">🛡️ Shielded from Google Maps</span>
+                </div>
+            </div>
+            
+            <div class="p-3 rounded-xl bg-slate-800/80 border border-slate-700/60 text-xs">
+                <div class="flex items-center justify-between mb-1">
+                    <span class="font-bold text-amber-400">⭐⭐ (2 Stars)</span>
+                    <span class="text-[10px] text-slate-500">2026-11-08 14:16:12</span>
+                </div>
+                <p class="text-slate-200 mb-1 font-semibold">Pooja Verma <span class="text-slate-400 font-normal">(+91 98111 22222)</span></p>
+                <p class="text-slate-300 italic">"Waiting time was 45 minutes past my appointment schedule."</p>
+                <div class="mt-2 text-right">
+                    <span class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-bold">🛡️ Shielded from Google Maps</span>
+                </div>
+            </div>
+            
+            <div class="p-3 rounded-xl bg-slate-800/80 border border-slate-700/60 text-xs">
+                <div class="flex items-center justify-between mb-1">
+                    <span class="font-bold text-amber-400">⭐ (1 Stars)</span>
+                    <span class="text-[10px] text-slate-500">2026-11-08 14:15:47</span>
+                </div>
+                <p class="text-slate-200 mb-1 font-semibold">Rohan Mehra <span class="text-slate-400 font-normal">(+91 98333 44444)</span></p>
+                <p class="text-slate-300 italic">"Dr was in a rush, unhelpful explanation."</p>
+                <div class="mt-2 text-right">
+                    <span class="px-2 py-0.5 rounded-full bg-emerald-500/20 text-emerald-300 text-[10px] font-bold">🛡️ Shielded from Google Maps</span>
+                </div>
+            </div>
+            
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <script>
+        const bizName = "Apex Dental Care";
+        const reviewUrl = "https://atp0925.github.io/trustpulse-ai/r/test-dental-hub/";
+
+        function sendWhatsAppInvite() {
+            const name = document.getElementById('waName').value || "Valued Customer";
+            let phone = document.getElementById('waPhone').value.trim();
+            phone = phone.replace(/[^0-9]/g, '');
+            if (!phone.startsWith('91') && phone.length === 10) {
+                phone = '91' + phone;
+            }
+
+            const text = encodeURIComponent(
+                "Hello " + name + "! Thank you for visiting " + bizName + " today. " +
+                "Could you take 10 seconds to share your quick feedback? " +
+                reviewUrl + " " +
+                "As a thank you, enjoy your special return perk!"
+            );
+            
+            const waUrl = "https://api.whatsapp.com/send?phone=" + phone + "&text=" + text;
+            window.open(waUrl, '_blank');
+        }
+    </script>
+</body>
+</html>
