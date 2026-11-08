@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Dentzz Dental Care",
+    "category": "Cosmetic Dentistry",
+    "city": "Mumbai",
+    "slug": "dentzz-dental-care",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/dentzz-dental-care",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_dentzz-dental-care.pdf",
+    "phone": "+91 22 2678 1234",
+    "offer": "Free dental consultation voucher",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "Kairali Ayurvedic Center",
+    "category": "Ayurveda & Wellness",
+    "city": "New Delhi",
+    "slug": "kairali-ayurvedic-center",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/kairali-ayurvedic-center",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_kairali-ayurvedic-center.pdf",
+    "phone": "+91 11 2680 1234",
+    "offer": "15% off first massage therapy",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "Cult.fit Fitness Center",
+    "category": "Gym & Group Workouts",
+    "city": "Bengaluru",
+    "slug": "cultfit-fitness-center",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/cultfit-fitness-center",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_cultfit-fitness-center.pdf",
+    "phone": "+91 80 4567 8901",
+    "offer": "2 Free group trial classes",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "Toni & Guy Hair Dressing",
+    "category": "Luxury Salon",
+    "city": "Pune",
+    "slug": "toni-guy-hair-dressing",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/toni-guy-hair-dressing",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_toni-guy-hair-dressing.pdf",
+    "phone": "+91 20 6600 4567",
+    "offer": "Complimentary hair spa with haircut",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "Dr. Agarwal's Eye Hospital",
+    "category": "Ophthalmology",
+    "city": "Chennai",
+    "slug": "dr-agarwals-eye-hospital",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/dr-agarwals-eye-hospital",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_dr-agarwals-eye-hospital.pdf",
+    "phone": "+91 44 2811 1234",
+    "offer": "Complimentary vision screening voucher",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "VLCC Wellness & Slimming",
+    "category": "Skin & Weight Loss",
+    "city": "Hyderabad",
+    "slug": "vlcc-wellness-slimming",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/vlcc-wellness-slimming",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_vlcc-wellness-slimming.pdf",
+    "phone": "+91 40 2345 6789",
+    "offer": "\u20b9500 gift voucher on skin glow service",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "B blunt Salon & Academy",
+    "category": "Hair Styling",
+    "city": "Mumbai",
+    "slug": "b-blunt-salon-academy",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/b-blunt-salon-academy",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_b-blunt-salon-academy.pdf",
+    "phone": "+91 22 2640 1234",
+    "offer": "10% off all hair color services",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  },
+  {
+    "name": "Dr. Mohan's Diabetes Center",
+    "category": "Endocrinology & Diabetes",
+    "city": "Bengaluru",
+    "slug": "dr-mohans-diabetes-center",
+    "live_filter_url": "https://atp0925.github.io/trustpulse-ai/r/dr-mohans-diabetes-center",
+    "poster_pdf": "C:\\Users\\atpad\\.gemini\\antigravity\\scratch\\trustpulse-app\\data\\poster_dr-mohans-diabetes-center.pdf",
+    "phone": "+91 80 2555 1234",
+    "offer": "Free HbA1c test consultation voucher",
+    "status": "AUTONOMOUSLY_ONBOARDED"
+  }
+]
