@@ -3,9 +3,9 @@ Hello Dr. Lal PathLabs Collection Center Team! 👋
 We noticed your location in New Delhi on Google Maps. In New Delhi, 85% of high-intent customers choose businesses with 4.8★+ ratings over competitors.
 
 We have provisioned a custom Reputation Accelerator & Negative Review Shield for Dr. Lal PathLabs Collection Center:
-🔗 Live Interactive Review Filter: http://localhost:8000/r/dr-lal-pathlabs-collection-center
-📊 Private Manager Analytics Dashboard: http://localhost:8000/dashboard/dr-lal-pathlabs-collection-center
-🖨️ Ready-to-Print Counter Table-Tent PDF: http://localhost:8000/poster/dr-lal-pathlabs-collection-center
+🔗 Live Interactive Review Filter: https://atp0925.github.io/trustpulse-ai/r/dr-lal-pathlabs-collection-center
+📊 Private Manager Analytics Dashboard: https://atp0925.github.io/trustpulse-ai/dashboard/dr-lal-pathlabs-collection-center
+🖨️ Ready-to-Print Counter Table-Tent PDF: https://atp0925.github.io/trustpulse-ai/poster/dr-lal-pathlabs-collection-center
 
 How TrustPulse protects your Diagnostic & Pathology:
 • Happy customers (4-5 stars) are routed in 1-tap directly to your Google Maps review page.

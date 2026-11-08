@@ -3,9 +3,9 @@ Hello Enrich Salon & Luxury Spa Team! 👋
 We noticed your location in Pune on Google Maps. In Pune, 85% of high-intent customers choose businesses with 4.8★+ ratings over competitors.
 
 We have provisioned a custom Reputation Accelerator & Negative Review Shield for Enrich Salon & Luxury Spa:
-🔗 Live Interactive Review Filter: http://localhost:8000/r/enrich-salon-luxury-spa
-📊 Private Manager Analytics Dashboard: http://localhost:8000/dashboard/enrich-salon-luxury-spa
-🖨️ Ready-to-Print Counter Table-Tent PDF: http://localhost:8000/poster/enrich-salon-luxury-spa
+🔗 Live Interactive Review Filter: https://atp0925.github.io/trustpulse-ai/r/enrich-salon-luxury-spa
+📊 Private Manager Analytics Dashboard: https://atp0925.github.io/trustpulse-ai/dashboard/enrich-salon-luxury-spa
+🖨️ Ready-to-Print Counter Table-Tent PDF: https://atp0925.github.io/trustpulse-ai/poster/enrich-salon-luxury-spa
 
 How TrustPulse protects your Hair & Beauty Salon:
 • Happy customers (4-5 stars) are routed in 1-tap directly to your Google Maps review page.

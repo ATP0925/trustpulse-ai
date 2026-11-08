@@ -64,7 +64,7 @@ TARGET_PROSPECTS = [
     }
 ]
 
-def run_autonomous_hunter(domain: str = "http://localhost:8000"):
+def run_autonomous_hunter(domain: str = "https://atp0925.github.io/trustpulse-ai"):
     print("=" * 70)
     print("⚡ TRUSTPULSE AUTONOMOUS HUNTER DAEMON INITIALIZING...")
     print(f"Targeting {len(TARGET_PROSPECTS)} high-value local business prospects.")

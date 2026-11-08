@@ -3,9 +3,9 @@ Hello Gold's Gym Bandra West Team! 👋
 We noticed your location in Mumbai on Google Maps. In Mumbai, 85% of high-intent customers choose businesses with 4.8★+ ratings over competitors.
 
 We have provisioned a custom Reputation Accelerator & Negative Review Shield for Gold's Gym Bandra West:
-🔗 Live Interactive Review Filter: http://localhost:8000/r/golds-gym-bandra-west
-📊 Private Manager Analytics Dashboard: http://localhost:8000/dashboard/golds-gym-bandra-west
-🖨️ Ready-to-Print Counter Table-Tent PDF: http://localhost:8000/poster/golds-gym-bandra-west
+🔗 Live Interactive Review Filter: https://atp0925.github.io/trustpulse-ai/r/golds-gym-bandra-west
+📊 Private Manager Analytics Dashboard: https://atp0925.github.io/trustpulse-ai/dashboard/golds-gym-bandra-west
+🖨️ Ready-to-Print Counter Table-Tent PDF: https://atp0925.github.io/trustpulse-ai/poster/golds-gym-bandra-west
 
 How TrustPulse protects your Fitness & Wellness:
 • Happy customers (4-5 stars) are routed in 1-tap directly to your Google Maps review page.

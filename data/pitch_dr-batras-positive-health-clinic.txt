@@ -3,9 +3,9 @@ Hello Dr. Batra's Positive Health Clinic Team! 👋
 We noticed your location in Mumbai on Google Maps. In Mumbai, 85% of high-intent customers choose businesses with 4.8★+ ratings over competitors.
 
 We have provisioned a custom Reputation Accelerator & Negative Review Shield for Dr. Batra's Positive Health Clinic:
-🔗 Live Interactive Review Filter: http://localhost:8000/r/dr-batras-positive-health-clinic
-📊 Private Manager Analytics Dashboard: http://localhost:8000/dashboard/dr-batras-positive-health-clinic
-🖨️ Ready-to-Print Counter Table-Tent PDF: http://localhost:8000/poster/dr-batras-positive-health-clinic
+🔗 Live Interactive Review Filter: https://atp0925.github.io/trustpulse-ai/r/dr-batras-positive-health-clinic
+📊 Private Manager Analytics Dashboard: https://atp0925.github.io/trustpulse-ai/dashboard/dr-batras-positive-health-clinic
+🖨️ Ready-to-Print Counter Table-Tent PDF: https://atp0925.github.io/trustpulse-ai/poster/dr-batras-positive-health-clinic
 
 How TrustPulse protects your Homeopathy & Trichology:
 • Happy customers (4-5 stars) are routed in 1-tap directly to your Google Maps review page.
